@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApiMDB</string>
+    <string name="text_mainActivity">Bienvenue !</string>
+    <string name="text_button">Demarrer</string>
+    <string name="text_seconde_activité">Second Ecran</string>
+
+
+</resources>
